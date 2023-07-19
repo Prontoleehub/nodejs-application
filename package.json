@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://184.72.72.247:8081/repository/boa-application-npn-repo/"
+    "url": "https://github.com/Prontoleehub/nodejs-application"
   },
   "keywords": [
     "node",
